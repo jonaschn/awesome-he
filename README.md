@@ -19,6 +19,7 @@
 - [tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - PYthon For HELib.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
+- [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 
 
 ## Software
