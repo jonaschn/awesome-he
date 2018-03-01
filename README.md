@@ -16,6 +16,11 @@
 
 - [HElib](https://github.com/shaih/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
+- [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
+- [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
+- [Λ ○ λ](https://github.com/cpeikert/Lol) - Haskell library for ring-based lattice cryptography that supports FHE.
+- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library.
+- [PALISADE](https://git.njit.edu/palisade/PALISADE) - lattice encryption library.
 - [tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - PYthon For HELib.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
