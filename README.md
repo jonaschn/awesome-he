@@ -27,6 +27,7 @@
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
+- [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 
 
 ## Software
