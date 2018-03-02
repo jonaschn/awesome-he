@@ -30,8 +30,10 @@
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 
+
 ## Software
 
+- [OpenMined](https://github.com/OpenMined) - Decentralized ownership of data and intelligence based on HE, smart contracts and Deep / Federated Learning.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 
