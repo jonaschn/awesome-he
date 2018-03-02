@@ -42,6 +42,7 @@
 - [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting Confidentiality with Encrypted Query Processing.
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
+- [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
 
 
 ## Resources
