@@ -33,7 +33,7 @@
 
 ## Software
 
-- [OpenMined](https://github.com/OpenMined) - Decentralized ownership of data and intelligence based on HE, smart contracts and Deep / Federated Learning.
+- [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 
