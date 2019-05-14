@@ -14,7 +14,7 @@
 
 ## Libraries
 
-- [HElib](https://github.com/shaih/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
+- [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
 - [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
