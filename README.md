@@ -32,7 +32,6 @@
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
 
 
-
 ## Software
 
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
