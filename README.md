@@ -29,6 +29,8 @@
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
+- [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
+
 
 
 ## Software
