@@ -15,7 +15,7 @@
 ## Libraries
 
 - [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
-- [SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
+- <a name="SEAL">[SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.</a>
 - [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - Haskell library for ring-based lattice cryptography that supports FHE.
@@ -29,11 +29,9 @@
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
-- [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
-
 
 ## Software
-
+- [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
