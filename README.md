@@ -21,7 +21,7 @@
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - Haskell library for ring-based lattice cryptography that supports FHE.
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library.
 - [PALISADE](https://git.njit.edu/palisade/PALISADE) - lattice encryption library.
-- [tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.
+- <a name="tfhe">- [tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - PYthon For HELib.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
@@ -29,6 +29,8 @@
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
+- [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
+- [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library that implements the [tfhe](#tfhe) algorithms.
 
 ## Software
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
