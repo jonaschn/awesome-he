@@ -15,6 +15,7 @@
 ## Libraries
 
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
+- [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
 - [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
