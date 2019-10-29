@@ -39,7 +39,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 ## Software
 
-- [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - A collection of Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
+- [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
