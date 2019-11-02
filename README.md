@@ -18,7 +18,7 @@
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
 - [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
-- [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
+- [HEAAN](https://github.com/snucrypto/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - Haskell library for ring-based lattice cryptography that supports FHE.
