@@ -26,6 +26,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
+- [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library.
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
