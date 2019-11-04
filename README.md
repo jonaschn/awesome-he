@@ -19,7 +19,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
-- [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
+- [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816).
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [jLBC](http://gas.dia.unisa.it/projects/jlbc/index.html) - A Java library implementing the BGV and BV scheme.
@@ -35,6 +35,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for SEAL, HElib, and PALISADE.
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
 - <a name="SEAL">[SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.</a>
+- [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an addon for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 
 
