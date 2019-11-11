@@ -19,7 +19,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
-- [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
+- [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816).
 - [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the FV scheme.
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
@@ -27,6 +27,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
+- [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
@@ -35,12 +36,13 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for SEAL, HElib, and PALISADE.
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
 - <a name="SEAL">[SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.</a>
+- [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an addon for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 
 
 ## Software
 
-- [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - A collection of Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
+- [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
