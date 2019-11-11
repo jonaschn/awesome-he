@@ -20,6 +20,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
 - [FHEW](https://github.com/lducas/FHEW) - Fully HE library.
+- [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the FV scheme.
 - [HEAAN](https://github.com/kimandrik/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [jLBC](http://gas.dia.unisa.it/projects/jlbc/index.html) - A Java library implementing the BGV and BV scheme.
@@ -27,7 +28,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
-- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library.
+- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
 - [PALISADE](https://git.njit.edu/palisade/PALISADE) - lattice encryption library.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
