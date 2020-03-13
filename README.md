@@ -40,6 +40,7 @@
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
+- [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE Evaluation Platform with a set of native benchmarks and a library agnostic language.
 
 
 ## Databases
