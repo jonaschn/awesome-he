@@ -40,12 +40,12 @@
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
-- [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE Evaluation Platform with a set of native benchmarks and a library agnostic language.
+- [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 
 
 ## Databases
 
-- [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting Confidentiality with Encrypted Query Processing.
+- [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting confidentiality with encrypted query processing.
 - [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
