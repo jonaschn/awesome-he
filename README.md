@@ -23,7 +23,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the Fan-Vercauteren scheme.
 - [HEAAN](https://github.com/snucrypto/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
 - <a name="HElib">[HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
-- [jLBC](https://github.com/adecaro/jlbc) - A Java library implementing the BGV and BV scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
