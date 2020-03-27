@@ -56,7 +56,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
-
+- [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
 
 ## Resources
 
@@ -64,6 +64,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Daniele Micciancio](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
+- [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government, and academic consortium for working on standardization of FHE.
 
 ## Related awesome lists
 
