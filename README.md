@@ -47,7 +47,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [Marble](https://github.com/MarbleHE/Marble) - A C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE, blockchain and deep / federated learning.
-
+- [MORFIX Sandbox](https://morfix.io/sandbox) - Web-based UI to play around with the [SEAL](#SEAL) library.
 
 ## Databases
 
@@ -63,6 +63,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Daniele Micciancio](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
+- [KU Leuven: COSIC Guide to Crypto](https://www.esat.kuleuven.be/cosic/tag/cosic-guide-to-crypto/). A introduction to homomorphic encryption.
 
 ## Related awesome lists
 
