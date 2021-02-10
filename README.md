@@ -67,6 +67,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 ## Databases
 
 - [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting confidentiality with encrypted query processing.
+- [Databunker](https://databunker.org/) - Encrypted personal data or PII storage service built to comply with GDPR and CCPA.
 - [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
 - [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
