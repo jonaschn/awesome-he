@@ -104,6 +104,14 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+## Like this work?
+
+✨ Star this project on GitHub [![GitHub Repo stars](https://img.shields.io/github/stars/jonaschn/awesome-he?style=social)](https://github.com/jonaschn/awesome-he)
+
+🚀 Contribute further [awesome HE](https://github.com/jonaschn/awesome-he/edit/master/README.md) projects
+
+💸 Spare me some ~~coffee~~ tea 🍵 via [Paypal](https://www.paypal.me/JonathanSchneiderDE/3)
+
 
 ## License
 
