@@ -51,10 +51,11 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [AWS HE toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - Simplifies the process of designing circuits for the CKKS scheme.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
+- [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform FHE operations on an encrypted data set.
 - [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
 	- [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
 	- [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
-	- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions) 
+	- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
 	- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
@@ -72,7 +73,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 	- [SwiftSyft](https://github.com/OpenMined/SwiftSyft) - Swift library for the iOS part of the OpenMined's open-source ecosystem.
 	- [syft.js](https://github.com/OpenMined/syft.js) - JavaScript library for the web part of the OpenMined's open-source ecosystem.
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
-- [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library. 
+- [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 
 
 ## Databases
