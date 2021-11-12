@@ -67,6 +67,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
+- [SEAL-euclidean-distance](https://github.com/clnnn/SEAL-euclidean-distance) - Angular based application that computes euclidean distance between two points using a WASM wrapper of Microsoft SEAL
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE and deep / federated learning.
 	- [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
