@@ -51,7 +51,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
 - [AWS HE toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - Simplifies the process of designing circuits for the CKKS scheme.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
-- [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Python-based open-source set of tools which aims to simplify the use of FHE for data scientists. Particular care was given to the simplicity in order to make it usable by any data scientist, even those without prior cryptography knowledge.
+- [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models). 
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform FHE operations on an encrypted data set.
