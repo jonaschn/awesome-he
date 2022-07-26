@@ -36,6 +36,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
+- [OpenFHE](https://github.com/openfheorg/openfhe-development) - FHE library merged from [PALISADE](#PALISADE), [HElib](#HElib), and [HEAAN](#HEAAN) that supports all major FHE schemes.
 - <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - lattice encryption library.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
@@ -99,6 +100,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [KU Leuven](https://www.esat.kuleuven.be/cosic/tag/cosic-guide-to-crypto/). An introduction to homomorphic encryption.
 - [Micciancio, Daniele](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
 - [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from SEAL/CKKS talks at Microsoft's Private AI Bootcamp.
+- [OpenFHE](https://www.openfhe.org). Webinars about the foundations of applied FHE, the latest advances in the OpenFHE project and applications of FHE.
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Zhigang Chen](https://zhigang-chen.github.io/FHE%20Resources.html). A list of English and Chinese FHE and Machine Learning references.
 
