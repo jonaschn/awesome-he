@@ -36,8 +36,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
-- [OpenFHE](https://github.com/openfheorg/openfhe-development) - FHE library with all features from [PALISADE](#PALISADE), merged with selected capabilities of [HElib](#HElib) and [HEAAN](#HEAAN) (all major FHE schemes).
-- <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - lattice encryption library.
+- <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) - FHE library with all features from [PALISADE](#PALISADE), merged with selected capabilities of [HElib](#HElib) and [HEAAN](#HEAAN) (all major FHE schemes).
+- <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - lattice encryption library (superseded by [OpenFHE](#OpenFHE)).
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
