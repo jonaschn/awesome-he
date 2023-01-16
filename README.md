@@ -47,6 +47,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - Rust compiler for the BFV fully homomorphic encryption scheme.
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs) - Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by [Zama](https://github.com/zama-ai).
 
 
 ## Toolkits
