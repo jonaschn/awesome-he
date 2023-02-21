@@ -16,6 +16,7 @@
 ## Libraries
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
+- [blyss](https://github.com/blyssprivacy/sdk) - Rust FHE library specialized for private information retrieval. Includes bindings to JS & Python.
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
