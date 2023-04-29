@@ -17,7 +17,6 @@
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 - [blyss](https://github.com/blyssprivacy/sdk) - Rust FHE library specialized for private information retrieval. Includes bindings to JS & Python.
-- [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Facebook's Rust library for the (additive version of the) Fan-Vercauteren scheme.
@@ -56,6 +55,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
 - [AWS HE toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - Simplifies the process of designing circuits for the CKKS scheme.
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data.
+- [Concrete](https://github.com/zama-ai/concrete) - TFHE compiler for converting Python programs into FHE equivalents.
 - [Concrete-ML](https://github.com/zama-ai/concrete-ml) - Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models). 
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
