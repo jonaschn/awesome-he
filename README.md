@@ -83,7 +83,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 	- [syft.js](https://github.com/OpenMined/syft.js) - JavaScript library for the web part of the OpenMined's open-source ecosystem.
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
-- [Zama's Hugging Face spaces](https://huggingface.co/zama-fhe) - Demo apps hosted on [Hugging Face](https://huggingface.co/) showing the power of FHE for real-world use cases.
+- [Zama's Hugging Face spaces](https://huggingface.co/zama-fhe) - Demo apps showing the power of FHE for real-world use cases.
 
 ## Databases
 
