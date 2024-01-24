@@ -65,7 +65,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 - [T2](https://github.com/TrustworthyComputing/T2-FHE-Compiler-and-Benchmarks) - A cross compiler and standardized benchmarks for FHE computation that targets [lattigo](#lattigo), [HElib](#HElib), [PALISADE](#PALISADE), [Microsoft SEAL](#SEAL), and [tfhe](#tfhe).
-- [HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers. 
+- <a name="HEIR">[HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers. 
 
 ## Applications
 
