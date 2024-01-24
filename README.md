@@ -1,8 +1,6 @@
 # Awesome Homomorphic Encryption [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 > A curated list of amazing Homomorphic Encryption libraries, software and resources.
-
 
 ## Contents
 
@@ -12,10 +10,10 @@
 - [Databases](#databases)
 - [Resources](#resources)
 
-
 ## Libraries
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
+
 - [blyss](https://github.com/blyssprivacy/sdk) - Rust FHE library specialized for private information retrieval. Includes bindings to JS & Python.
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library.
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
@@ -49,7 +47,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs) - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
 
-
 ## Toolkits
 
 - [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
@@ -61,14 +58,14 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries.
 - [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
-	- [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
-	- [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
-	- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
-	- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
+  - [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
+  - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
+  - [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
+  - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 - [T2](https://github.com/TrustworthyComputing/T2-FHE-Compiler-and-Benchmarks) - A cross compiler and standardized benchmarks for FHE computation that targets [lattigo](#lattigo), [HElib](#HElib), [PALISADE](#PALISADE), [Microsoft SEAL](#SEAL), and [tfhe](#tfhe).
-
+- [HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers. 
 
 ## Applications
 
@@ -77,10 +74,10 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE and deep / federated learning.
-	- [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
-	- [PySyft](https://github.com/OpenMined/PySyft) - Python library for the server/IoT part of the OpenMined's open-source ecosystem.
-	- [SwiftSyft](https://github.com/OpenMined/SwiftSyft) - Swift library for the iOS part of the OpenMined's open-source ecosystem.
-	- [syft.js](https://github.com/OpenMined/syft.js) - JavaScript library for the web part of the OpenMined's open-source ecosystem.
+  - [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
+  - [PySyft](https://github.com/OpenMined/PySyft) - Python library for the server/IoT part of the OpenMined's open-source ecosystem.
+  - [SwiftSyft](https://github.com/OpenMined/SwiftSyft) - Swift library for the iOS part of the OpenMined's open-source ecosystem.
+  - [syft.js](https://github.com/OpenMined/syft.js) - JavaScript library for the web part of the OpenMined's open-source ecosystem.
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 - [Zama's Hugging Face spaces](https://huggingface.co/zama-fhe) - Demo apps showing the power of FHE for real-world use cases.
@@ -92,7 +89,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
 - [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
-
 
 ## Resources
 
@@ -115,7 +111,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Multi-Party Computation.
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -127,7 +122,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 🚀 Contribute further [awesome HE](https://github.com/jonaschn/awesome-he/edit/master/README.md) projects
 
 💸 Spare me some ~~coffee~~ tea 🍵 via [Paypal](https://www.paypal.me/JonathanSchneiderDE/3)
-
 
 ## License
 
