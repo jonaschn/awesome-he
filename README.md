@@ -57,6 +57,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
+- [HELM](https://github.com/TrustworthyComputing/helm) - Framework for evaluating synthesizable HDL designs in the encrypted domain that is designed for multi-core CPU & GPU evaluation.
 - [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
   - [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
   - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
