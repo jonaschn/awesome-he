@@ -19,6 +19,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Facebook's Rust library for the (additive version of the) Fan-Vercauteren scheme.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
+- [fhEVM](https://github.com/zama-ai/fhevm) - fhEVM is a technology that enables confidential smart contracts on the EVM using FHE by [Zama](https://github.com/zama-ai).
 - [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816).
 - [FINAL](https://github.com/KULeuven-COSIC/FINAL) - C++ FHE library based on [NTRU and LWE scheme](https://eprint.iacr.org/2022/074).
 - [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the Fan-Vercauteren scheme.
