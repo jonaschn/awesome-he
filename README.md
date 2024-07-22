@@ -36,7 +36,9 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
-- <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) - FHE library with all features from [PALISADE](#PALISADE), merged with selected capabilities of [HElib](#HElib) and [HEAAN](#HEAAN) (all major FHE schemes).
+- <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) - C++ FHE library implementing BFV, BGV, CKKS, DM/FHEW, and CGGI/TFHE schemes along with bootstrapping and scheme switching capabilities.
+- <a name="OpenFHE-Python">[OpenFHE-Python](https://github.com/openfheorg/openfhe-python) - Python wrapper for [OpenFHE](#OpenFHE).
+- <a name="OpenFHE-Rust">[OpenFHE-Rust](https://github.com/fairmath/openfhe-rs) - Rust wrapper for [OpenFHE](#OpenFHE).
 - <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - lattice encryption library (superseded by [OpenFHE](#OpenFHE)).
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
@@ -74,6 +76,10 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
+- [OpenFHE demo applications](https://github.com/openfheorg/openfhe-development):
+  - [boolean-circuit-evaluator](https://github.com/openfheorg/openfhe-boolean-circuit-evaluator) - Demonstration application to read in boolean circuits using multiple formats and execute them in encrypted form based on binfhe module for encrypted boolean logic.
+  - [genomic-examples](https://github.com/openfheorg/openfhe-genomic-examples) - Genomic research prototypes for the LRA and the Chi-Square protocols.
+  - [logreg-training-examples](https://github.com/openfheorg/openfhe-logreg-training-examples) - Logistic Regression Training Examples.
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE and deep / federated learning.
   - [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
   - [PySyft](https://github.com/OpenMined/PySyft) - Python library for the server/IoT part of the OpenMined's open-source ecosystem.
