@@ -59,11 +59,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
 - <a name="HEIR">[HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers.
-- [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
-  - [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
-  - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
-  - [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
-  - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
+- [IBM HElayers](https://github.com/IBM/helayers) - IBM's FHE SDK for practical and efficient execution of encrypted workloads.
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 - [T2](https://github.com/TrustworthyComputing/T2-FHE-Compiler-and-Benchmarks) - A cross compiler and standardized benchmarks for FHE computation that targets [lattigo](#lattigo), [HElib](#HElib), [PALISADE](#PALISADE), [Microsoft SEAL](#SEAL), and [tfhe](#tfhe).
