@@ -19,6 +19,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Facebook's Rust library for the (additive version of the) Fan-Vercauteren scheme.
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs.
+- [fhEVM](https://github.com/zama-ai/fhevm) - Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.
 - [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816).
 - [FINAL](https://github.com/KULeuven-COSIC/FINAL) - C++ FHE library based on [NTRU and LWE scheme](https://eprint.iacr.org/2022/074).
 - [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the Fan-Vercauteren scheme.
@@ -57,16 +58,12 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [E3](https://github.com/momalab/e3) - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 - [EVA](https://github.com/microsoft/EVA) - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 - [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
+- <a name="HEIR">[HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers.
 - [HELM](https://github.com/TrustworthyComputing/helm) - Framework for evaluating synthesizable HDL designs in the encrypted domain that is designed for multi-core CPU & GPU evaluation.
-- [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
-  - [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
-  - [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
-  - [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
-  - [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
+- [IBM HElayers](https://github.com/IBM/helayers) - IBM's FHE SDK for practical and efficient execution of encrypted workloads.
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 - [T2](https://github.com/TrustworthyComputing/T2-FHE-Compiler-and-Benchmarks) - A cross compiler and standardized benchmarks for FHE computation that targets [lattigo](#lattigo), [HElib](#HElib), [PALISADE](#PALISADE), [Microsoft SEAL](#SEAL), and [tfhe](#tfhe).
-- <a name="HEIR">[HEIR](https://github.com/google/heir) - Google's MLIR-based toolchain for FHE compilers. 
 
 ## Applications
 
