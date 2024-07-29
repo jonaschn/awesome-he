@@ -39,6 +39,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) - FHE library with all features from [PALISADE](#PALISADE), merged with selected capabilities of [HElib](#HElib) and [HEAAN](#HEAAN) (all major FHE schemes).
 - <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - lattice encryption library (superseded by [OpenFHE](#OpenFHE)).
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
+- [PhantomFHE](https://github.com/encryptorion-lab/phantom-fhe) - A CUDA-Accelerated Fully Homomorphic Encryption Library.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
