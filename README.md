@@ -78,7 +78,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
 - [OpenFHE demo applications](https://github.com/openfheorg/openfhe-development):
   - [boolean-circuit-evaluator](https://github.com/openfheorg/openfhe-boolean-circuit-evaluator) - Demonstration application to read in boolean circuits using multiple formats and execute them in encrypted form based on binfhe module for encrypted boolean logic.
-  - [genomic-examples](https://github.com/openfheorg/openfhe-genomic-examples) - Genomic research prototypes for the LRA and the Chi-Square protocols.
+  - [genomic-examples](https://github.com/openfheorg/openfhe-genomic-examples) - Prototypes for secure genome-wide association studies using homomorphic encryption.
   - [logreg-training-examples](https://github.com/openfheorg/openfhe-logreg-training-examples) - Logistic Regression Training Examples.
 - [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE and deep / federated learning.
   - [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
