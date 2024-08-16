@@ -76,7 +76,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
-- [OpenFHE demo applications](https://github.com/openfheorg/openfhe-development):
+- [OpenFHE demo applications](https://github.com/openfheorg/openfhe-development) - Several demo applications that demonstrate some of the capabilities of OpenFHE
   - [boolean-circuit-evaluator](https://github.com/openfheorg/openfhe-boolean-circuit-evaluator) - Demonstration application to read in boolean circuits using multiple formats and execute them in encrypted form based on binfhe module for encrypted boolean logic.
   - [genomic-examples](https://github.com/openfheorg/openfhe-genomic-examples) - Prototypes for secure genome-wide association studies using homomorphic encryption.
   - [logreg-training-examples](https://github.com/openfheorg/openfhe-logreg-training-examples) - Logistic Regression Training Examples.
