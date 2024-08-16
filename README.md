@@ -9,6 +9,9 @@
 - [Applications](#applications)
 - [Databases](#databases)
 - [Resources](#resources)
+- [Related awesome lists](#related-awesome-lists)
+- [Contribute](#contribute)
+
 
 ## Libraries
 
@@ -118,8 +121,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## Like this work?
 
 ✨ Star this project on GitHub [![GitHub Repo stars](https://img.shields.io/github/stars/jonaschn/awesome-he?style=social)](https://github.com/jonaschn/awesome-he)
 
