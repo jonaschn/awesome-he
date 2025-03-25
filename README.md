@@ -32,6 +32,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
+- [LightPHE](https://github.com/serengil/LightPHE) - A Python wrapping Partially HE library (RSA, ElGamal, Paillier, Damgard-Jurik, Benaloh, and more).
 - <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
@@ -44,7 +45,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [PhantomFHE](https://github.com/encryptorion-lab/phantom-fhe) - A CUDA-Accelerated Fully Homomorphic Encryption Library.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
-- [LightPHE](https://github.com/serengil/LightPHE) - A Python wrapping Partially HE library (RSA, ElGamal, Paillier, Damgard-Jurik, Okamoto–Uchiyama, Benaloh, Naccache–Stern, Goldwasser–Micali).
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
 - [Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - Rust compiler for the BFV fully homomorphic encryption scheme.
