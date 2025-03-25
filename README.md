@@ -71,7 +71,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 ## Applications
 
-- [CipherFace](https://github.com/serengil/cipherface) - Partially and Fully HE based Facial Recognition Framework
+- [CipherFace](https://github.com/serengil/cipherface) - Partially and Fully HE based Facial Recognition Framework.
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
