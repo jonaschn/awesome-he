@@ -27,7 +27,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [HEAAN-Python](https://github.com/Huelse/HEAAN-Python) - Python binding for the [HEANN](#HEAAN) library.
 - <a name="HElib">[HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
 - [HEMat](https://github.com/K-miran/HEMat) - C++ implementation of matrix computation (addition, multiplication, and transposition) using [HEANN](#HEAAN).
-- [HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) - A GPU Based Homomorphic Encryption Library.
+- [HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) -  CUDA-accelerated FHE library on GPUs (BFV, CKKS, MPC).
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
